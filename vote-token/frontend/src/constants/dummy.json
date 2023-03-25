@@ -1,0 +1,347 @@
+{
+  "subProducts": [
+    {
+      "id": 1,
+      "title": "ETH never die",
+      "price": "0.27",
+      "totalCount": 12,
+      "currentCount": 1,
+      "avatar": "/assets/images/users/5.jpg",
+      "product": "product_11.png"
+    },
+    {
+      "id": 2,
+      "title": "Future coming soon",
+      "price": "0.27",
+      "totalCount": 3,
+      "currentCount": 1,
+      "avatar": "/assets/images/users/6.jpg",
+      "product": "product_12.png"
+    },
+    {
+      "id": 3,
+      "title": "Elon Musk silver coin 3d print",
+      "price": "0.45",
+      "totalCount": 12,
+      "currentCount": 6,
+      "avatar": "/assets/images/users/7.jpg",
+      "product": "product_13.png"
+    }
+  ],
+  "ownerss": [
+    {
+      "id": 1,
+      "title": "Payton Harris",
+      "price": 2.456,
+      "count": 6,
+      "avatar": "/assets/images/users/5.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Anita Bins",
+      "price": 5.956,
+      "count": 4,
+      "avatar": "/assets/images/users/6.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Joana Wuckert",
+      "price": 8.466,
+      "count": 1,
+      "avatar": "/assets/images/users/7.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Lorena Ledner",
+      "price": 8.234,
+      "count": 2,
+      "avatar": "/assets/images/users/8.jpg"
+    }
+  ],
+  "sellers": [
+    {
+      "id": 1,
+      "status": "primary",
+      "avatar": "/default-profile.png",
+      "price": 2.344,
+      "name": "Python hey",
+      "soldAmount": 2.344,
+      "walletAddress": "0x263e06822779bee6f426838cd2a962009c18a646"
+    },
+    {
+      "id": 2,
+      "status": "primary",
+      "avatar": "/default-profile.png",
+      "price": 9.344,
+      "name": "Jack Robot pa",
+      "soldAmount": 9.344,
+      "walletAddress": "0x263e06822779bee6f426838cd2a962009c18a646"
+    },
+    {
+      "id": 3,
+      "status": "success",
+      "avatar": "/default-profile.png",
+      "price": 4.644,
+      "name": "Dash Robot pa",
+      "soldAmount": 4.644,
+      "walletAddress": "0x263e06822779bee6f426838cd2a962009c18a646"
+    },
+    {
+      "id": 4,
+      "status": "default",
+      "avatar": "/default-profile.png",
+      "price": 6.344,
+      "name": "Python hey",
+      "soldAmount": 6.344,
+      "walletAddress": "0x263e06822779bee6f426838cd2a962009c18a646"
+    },
+    {
+      "id": 5,
+      "status": "default",
+      "avatar": "/default-profile.png",
+      "price": 5.344,
+      "name": "Helen",
+      "soldAmount": 5.344,
+      "walletAddress": "0x263e06822779bee6f426838cd2a962009c18a646"
+    },
+    {
+      "id": 6,
+      "status": "primary",
+      "avatar": "/default-profile.png",
+      "price": 2.344,
+      "name": "Python hey",
+      "soldAmount": 2.344,
+      "walletAddress": "0x263e06822779bee6f426838cd2a962009c18a646"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Amazing Digital Art",
+      "price": 7.99,
+      "count": 23,
+      "owners": ["/assets/images/users/1.jpg", "/assets/images/users/2.jpg", "3/assets/images/users/3.jpg"],
+      "bid": 0.004,
+      "picture": "/assets/images/products/product_01.png",
+      "startTime": 1624923180000
+    },
+    {
+      "id": 2,
+      "title": "Beautiful Clothes",
+      "price": 30.0,
+      "count": 1,
+      "owners": ["/assets/images/users/3.jpg", "/assets/images/users/4.jpg", "5/assets/images/users/3.jpg"],
+      "bid": 0.004,
+      "picture": "/assets/images/products/product_02.png",
+      "startTime": 1624923180000
+    },
+    {
+      "id": 3,
+      "title": "Perfect Computer",
+      "price": 5.89,
+      "count": 7,
+      "owners": ["/assets/images/users/6.jpg", "/assets/images/users/7.jpg", "8/assets/images/users/3.jpg"],
+      "bid": 0.004,
+      "picture": "/assets/images/products/product_03.png",
+      "startTime": 1624923180000
+    },
+    {
+      "id": 4,
+      "title": "Mobile responsive",
+      "price": 9.0,
+      "count": 23,
+      "owners": ["/assets/images/users/1.jpg", "/assets/images/users/2.jpg", "3/assets/images/users/3.jpg"],
+      "bid": 1.24,
+      "picture": "/assets/images/products/product_06.png",
+      "startTime": 1624923180000
+    },
+    {
+      "id": 5,
+      "title": "Amazing Digital Art",
+      "price": 9.0,
+      "count": 2,
+      "owners": ["/assets/images/users/1.jpg", "/assets/images/users/2.jpg", "3/assets/images/users/3.jpg"],
+      "bid": 0.124,
+      "picture": "/assets/images/products/product_07.png"
+    },
+    {
+      "id": 6,
+      "title": "Amazing Digital Art",
+      "price": 5.0,
+      "count": 0,
+      "owners": ["/assets/images/users/1.jpg", "/assets/images/users/2.jpg", "3/assets/images/users/3.jpg"],
+      "bid": 0.024,
+      "picture": "/assets/images/products/product_10.png"
+    },
+    {
+      "id": 7,
+      "title": "Mobile responsive",
+      "price": 0.0,
+      "count": 0,
+      "owners": ["/assets/images/users/7.jpg", "/assets/images/users/8.jpg", "9/assets/images/users/3.jpg"],
+      "bid": 1.004,
+      "picture": "/assets/images/products/product_11.png"
+    },
+    {
+      "id": 8,
+      "title": "Highest computer",
+      "price": 1.0,
+      "count": 3,
+      "owners": ["/assets/images/users/1.jpg", "/assets/images/users/2.jpg", "3/assets/images/users/3.jpg"],
+      "bid": 4.5,
+      "picture": "/assets/images/products/product_12.png"
+    },
+    {
+      "id": 9,
+      "title": "Mobile responsive",
+      "price": 1.0,
+      "count": 88,
+      "owners": ["/assets/images/users/9.jpg", "/assets/images/users/10.jpg", "/assets/images/users/11.jpg"],
+      "bid": 0.1,
+      "picture": "/assets/images/products/product_08.png"
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "main": "product_01.png",
+      "items": ["product_13.png", "product_15.png", "product_14.png"],
+      "seller": "/assets/images/users/10.jpg",
+      "sellerName": "Donkey",
+      "title": "Awesome product",
+      "count": 4
+    },
+    {
+      "id": 2,
+      "main": "product_02.png",
+      "items": ["product_04.png", "product_05.png", "product_06.png"],
+      "seller": "/assets/images/users/11.jpg",
+      "sellerName": "Elizabeth",
+      "title": "Awesome Computer",
+      "count": 5
+    },
+    {
+      "id": 3,
+      "main": "product_03.png",
+      "items": ["product_01.png", "product_02.png", "product_03.png"],
+      "seller": "/assets/images/users/8.jpg",
+      "sellerName": "Eliot pa",
+      "title": "Perfect Web Page",
+      "count": 9
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_05.png"
+    },
+    {
+      "id": 2,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_05.png"
+    },
+    {
+      "id": 3,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_06.png"
+    },
+    {
+      "id": 4,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_07.png"
+    },
+    {
+      "id": 5,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_08.png"
+    },
+    {
+      "id": 6,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_09.png"
+    },
+    {
+      "id": 7,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_10.png"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "title": "ETH received",
+      "comment": "0.08 ETH received",
+      "image": "product_01.png"
+    },
+    {
+      "id": 2,
+      "title": "Message received",
+      "comment": "0.08 ETH received",
+      "image": "product_02.png"
+    },
+    {
+      "id": 3,
+      "title": "Notification received",
+      "comment": "0.08 ETH received",
+      "image": "product_03.png"
+    },
+    {
+      "id": 4,
+      "title": "Email received",
+      "comment": "0.08 ETH received",
+      "image": "product_04.png"
+    }
+  ],
+  "followers": [
+    {
+      "id": 1,
+      "name": "Sally Fadel",
+      "comment": "161 followers",
+      "avatar": "/assets/images/users/1.jpg",
+      "products": ["product_01.png", "product_02.png", "product_03.png", "product_04.png"]
+    },
+    {
+      "id": 2,
+      "name": "Aniya Harber",
+      "comment": "161 followers",
+      "avatar": "/assets/images/users/2.jpg",
+      "products": ["product_04.png", "product_05.png", "product_06.png", "product_07.png"]
+    },
+    {
+      "id": 3,
+      "name": "Edwardo Bea",
+      "comment": "161 followers",
+      "avatar": "/assets/images/users/3.jpg",
+      "products": ["product_08.png", "product_09.png", "product_10.png", "product_11.png"]
+    },
+    {
+      "id": 4,
+      "name": "Reymundo",
+      "comment": "161 followers",
+      "avatar": "/assets/images/users/4.jpg",
+      "products": ["product_07.png", "product_08.png", "product_09.png", "product_10.png"]
+    },
+    {
+      "id": 5,
+      "name": "Jeanette",
+      "comment": "161 followers",
+      "avatar": "/assets/images/users/5.jpg",
+      "products": ["product_05.png", "product_06.png", "product_07.png", "product_08.png"]
+    }
+  ]
+}

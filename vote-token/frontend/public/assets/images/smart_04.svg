@@ -1,0 +1,13 @@
+<svg width="112" height="112" viewBox="0 0 112 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56 111C86.3757 111 111 86.3757 111 56C111 25.6243 86.3757 1 56 1C25.6243 1 1 25.6243 1 56C1 86.3757 25.6243 111 56 111Z" stroke="#6864F9" stroke-width="2"/>
+<mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="112" height="112">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56 111C86.3757 111 111 86.3757 111 56C111 25.6243 86.3757 1 56 1C25.6243 1 1 25.6243 1 56C1 86.3757 25.6243 111 56 111Z" fill="white" stroke="white" stroke-width="2"/>
+</mask>
+<g mask="url(#mask0_0_1)">
+</g>
+<rect x="50" y="62" width="12" height="22" stroke="#6864F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="70" width="12" height="14" stroke="#6864F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="72" y="50" width="12" height="34" stroke="#6864F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 28H84V40" stroke="#6864F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M84 28C84 28 62.814 56.892 28 57.97" stroke="#6864F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

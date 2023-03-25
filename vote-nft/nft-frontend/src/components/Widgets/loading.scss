@@ -1,0 +1,50 @@
+
+
+@import "../../global.scss";
+
+.loading_page{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    position: fixed;
+    z-index: 999;
+
+    .logoIcon{
+        height: 120px;
+        animation-name: loading;
+        animation-duration: 1s;
+        animation-iteration-count: infinite;
+        opacity: 1;
+        position: absolute;
+        @media screen and (max-width: 768px) and (orientation:portrait){
+            height: 70px;
+        }
+        @media screen and (max-height: 768px) and (orientation:landscape){
+            height: 70px;
+        }
+        @keyframes loading {
+            50%  {opacity:0.3}
+            100% {opacity:1}
+        }
+    }
+    h1{
+        font-size: 14px;
+        color: #fff;
+        position: absolute;
+        @include mobile_potrait{
+            font-size: 10px;
+        }
+        @mixin pad_potrait{
+            font-size: 12px;
+        }
+        @include mobile_landscape{
+            font-size: 10px;
+        }
+    }
+}
+
+
